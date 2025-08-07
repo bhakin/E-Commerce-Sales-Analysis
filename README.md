@@ -24,3 +24,6 @@ This project explores and visualizes sales data from an online retail store usin
 
 ## Interactive Dashboard
 [View Tableau Dashboard](https://public.tableau.com/app/profile/bhakin.phanakesiri/viz/E-CommerceSalesAnalysis_17545607268120/E-CommerceSalesAnalysis?publish=yes)
+
+## Dataset
+[Raw E-Commerce Dataset] (https://archive.ics.uci.edu/dataset/352/online+retail)
