@@ -20,10 +20,13 @@ This project explores and visualizes sales data from an online retail store usin
 - The product that bring the most revenue is the White Hanging Heart T Light Holder with over 100,000 GBP.
 - The product that sold the most is the Paper Craft, Little Birdie.
 - The country that brings the most revenue is the United Kingdom.
-- The revenue has been steadily increasing up until December. 
+- The revenue has been steadily increasing up until December.
+
+## Project Structure
+- ecommerce
 
 ## Interactive Dashboard
 [View Tableau Dashboard](https://public.tableau.com/app/profile/bhakin.phanakesiri/viz/E-CommerceSalesAnalysis_17545607268120/E-CommerceSalesAnalysis?publish=yes)
 
 ## Dataset
-[Raw E-Commerce Dataset] (https://archive.ics.uci.edu/dataset/352/online+retail)
+[Raw E-Commerce Dataset](https://archive.ics.uci.edu/dataset/352/online+retail)
