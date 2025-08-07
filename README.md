@@ -22,8 +22,16 @@ This project explores and visualizes sales data from an online retail store usin
 - The country that brings the most revenue is the United Kingdom.
 - The revenue has been steadily increasing up until December.
 
-## Project Structure
-- ecommerce
+## Project Contents
+- ecommerce_analysis.sql - all SQL queries (cleaning and analysis)
+- monthly_revenue.csv - monthly revenue
+- top_10_products.csv - top product revenue data
+- aov_by_country.csv - average order value by country
+- best_sales_day.csv - revenue by day of the week
+- revenue_by_country.csv - revenue by country
+- revenue_growth.csv - month over month growth
+- total_quan_product.csv - total number of product sold
+- README.md - this file
 
 ## Interactive Dashboard
 [View Tableau Dashboard](https://public.tableau.com/app/profile/bhakin.phanakesiri/viz/E-CommerceSalesAnalysis_17545607268120/E-CommerceSalesAnalysis?publish=yes)
